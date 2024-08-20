@@ -1,9 +1,12 @@
 # Quantitative Analyst, Data Scientist, Statistician
+### Technical Skills: Python, SQL, SAS, R, MATLAB, VBA
+## Education
+- M.Sc, Statistics | University of Witwatersrand, South Africa
+- M.Sc, Data Science | University of Witwatersrand, South Africa
+- B.Sc, Statistics | University of Witwatersrand, South Africa
 
-### Education
-MSc Data Science, MSc Statistic
+## Work Experience
+**Model Development Manager @ ABSA Corporate and Investment Banking
 
-### Work Experience
-Model Development Manager @ ABSA Corporate and Investment Banking
 
 ### Projects

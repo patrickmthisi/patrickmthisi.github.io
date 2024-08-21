@@ -4,14 +4,14 @@
 
 I am a data science and quantitative finance professional with extensive experience in risk management, financial modeling, and machine learning. With advanced certifications in Financial Risk Management (FRM), Chartered Alternative Investment Analyst (CAIA), and Certificate in Quantitative Finance (CQF), I bring a strong analytical background to the table.
 
-My academic credentials include an MSc in Statistics and an MSc in Data Science from the University of Witwatersrand. I have worked with leading financial institutions, developing models that drive strategic decision-making and improve risk management.
+My academic credentials include an MSc in Statistics and an MSc in Data Science from the University of Witwatersrand in South Africa. I have worked with leading financial institutions, developing models that drive strategic decision-making and improve risk management.
 
 ## Skills
 
-- **Programming Languages:** Python, R, SAS, SQL
+- **Programming Languages:** Python, R, SAS, SQL, VBA
 - **Data Science & Machine Learning:** Supervised & Unsupervised Learning, Neural Networks, Model Evaluation
 - **Financial Modeling:** Risk Management, Portfolio Optimization, Credit Risk Analysis
-- **Tools & Technologies:** TensorFlow, Keras, Scikit-Learn, Pandas, NumPy, Jupyter Notebooks
+- **Tools & Technologies:** Linux, Docker, Git, Github, EDA with D-Tale, AutoViz, and Sweetviz, H2OAutoML, Auto-Sklearn, LazyPredict.
 - **Certifications:** FRM, CAIA, CQF
 
 ## Projects

@@ -14,32 +14,14 @@ My academic credentials include an MSc in Statistics and an MSc in Data Science 
 - **Tools & Technologies:** TensorFlow, Keras, Scikit-Learn, Pandas, NumPy, Jupyter Notebooks
 - **Certifications:** FRM, CAIA, CQF
 
-## Experience
-
-### **Model Development Manager**  
-**ABSA Corporate and Investment Banking**  
-*Date – Present*  
-- Developed risk-ranking PD override tool for Real Estate Investment Banking portfolio.
-- Conducted spline modeling and post-model adjustments for risk analysis.
-
-### **Quantitative Analyst**  
-**Nedbank Corporate and Investment Banking**  
-*Date – Date*  
-- Created financial models including leveraged buyout and multi-share-backed models.
-- Implemented IFRS 9 impairment methodology for critical portfolios.
-
 ## Projects
 
 ### **Customer Churn Prediction**
 - Developed and evaluated machine learning models to predict customer churn using various techniques including binning and Weight of Evidence (WoE) transformations.
 
-### **Financial Risk Modeling**
-- Designed a leveraged buyout model and multi-share-backed model for credit risk assessment and portfolio management.
+ ### **Understanding the Effects of Air Qua**
+- Developed and evaluated machine learning models to predict customer churn using various techniques including binning and Weight of Evidence (WoE) transformations.
 
-## Publications
-
-- *“Survival Analysis Techniques in Credit Risk Modeling”* – Published in [Journal Name].
-- *“Machine Learning Approaches for Financial Forecasting”* – In Review.
 
 ## Contact
 
